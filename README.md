@@ -1,5 +1,4 @@
 ### Hi there 👋
-https://open.kakao.com/o/gplZEKBf
 
 <!--
 **miso062/miso062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
